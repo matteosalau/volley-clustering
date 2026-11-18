@@ -2,7 +2,7 @@
 
 Progetto per il corso di **Principi e Modelli della Percezione**.
 
-Autori: *Alessandro Lovaglio*, *Matteo Sala*
+Autori: *Lovaglio Alessandro*, *Sala Matteo*
 
 Il progetto modella il posizionamento difensivo del **libero** (partenza in posto 5) al momento del distacco dell'attacco avversario. Durante un'azione d'attacco il libero deve leggere gli indizi visivi (rincorsa e postura dell'attaccante, disposizione del muro) per anticipare la traiettoria della palla e posizionarsi nello spazio. Qui questo processo percettivo-cognitivo viene tradotto in un'analisi computazionale con due algoritmi di clustering non supervisionato:
 
